@@ -1,0 +1,1 @@
+Vizality is an up-and-coming Discord client modification that runs on both the desktop app, and the browser!
